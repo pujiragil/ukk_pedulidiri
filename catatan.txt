@@ -1,0 +1,4 @@
+
+123|Puji Ragil|2022-02-14|13:55|Jenangan|-20
+123|Puji Ragil|2022-02-14|14:10|New York|-100 C
+123|Puji Ragil|2022-02-24|14:27|Afrika|38.2
